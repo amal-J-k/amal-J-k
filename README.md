@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on android and deeplearning projects
 
 
-- ⚡ Fun fact: i can do both android dvelopment and ml engineering
+- ⚡ Fun fact: i can do both android dvelopment and machine learning 
 
 <!---
 amal-J-k/amal-J-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
