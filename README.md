@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @amal-J-k
-- 👀 I’m interested in android development and machine learning
+- 👀 I’m interested in Android Development and AI/ML
 - 🌱 I’m currently getting rusty🦀😇
 - 💞️ I’m looking to collaborate on android and deeplearning projects
 
 
-- ⚡ Fun fact: i can do both android dvelopment and machine learning 
+- ⚡ Fun fact: I can do both android dvelopment and AI/ML 
 
 <!---
 amal-J-k/amal-J-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
